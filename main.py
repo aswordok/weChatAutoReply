@@ -45,7 +45,7 @@ while True:
         # 能够匹配到数据时
         if ar:
             # 将数据输入
-            # 替换换利符号
+            # 替换换行符号
             wx.SendKeys(ar[0].replace("{br}", "{shift}{Enter}"), waitTime=0)
             # 发送消息
             wx.SendKeys("{Enter}", waitTime=0)
