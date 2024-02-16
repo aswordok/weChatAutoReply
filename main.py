@@ -22,7 +22,6 @@ print(df)
 while True:
     # 查找未读消息
     we = hw.TextControl(searchDepth=4)
-    # print("查找未读消息",we)
 
     # 死循环维持，没有超时报错
     while not we.Exists(0):
