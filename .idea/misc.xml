@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.10 (weChatAutoChat)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (weChatAutoChat)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (weChatAutoReply)" project-jdk-type="Python SDK" />
 </project>

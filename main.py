@@ -10,7 +10,6 @@ wx = WindowControl(
 print(wx)
 
 # 切换窗口
-wx.ListControl()
 wx.SwitchToThisWindow()
 # 寻找会话控件绑定
 hw = wx.ListControl(Name="会话")
