@@ -44,7 +44,7 @@ while True:
 
         # 能够匹配到数据时
         if ar:
-            print('命中关键字：',last_msg)
+            print('命中关键字')
             # 将数据输入
             # 替换换行符号
             wx.SendKeys(ar[0].replace('{br}', '{shift}{Enter}'), waitTime=0)
